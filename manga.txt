@@ -1,7 +1,0 @@
-{
-  "name": "vintek",
-  "website": "",
-  "description": "I operate on some data",
-  "logo": "",
-  "twitter": "https://twitter.com/tyfnddf"
-}
